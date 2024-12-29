@@ -41,8 +41,9 @@
 
 ### 예측 결과 시각화
 - 성능이 우수한 건물: 예측값이 실제값과 거의 일치
+ ![image1](assets/images/image1.png)
 - 성능이 낮은 건물: 주기적인 패턴 학습 성공, 하지만 값 변동 구간에서 성능 저하
-
+ ![image2](assets/images/image2.png)
 ## 사용 기술
 
 - **언어 및 프레임워크**: Python
