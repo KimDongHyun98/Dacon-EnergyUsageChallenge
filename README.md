@@ -8,8 +8,7 @@
 ## 프로젝트 배경
 - ** 데이터 **: 
 본 프로젝트에서 사용된 데이터는 아래 링크에서 다운로드할 수 있습니다:
-
--[데이콘 전력 사용량 예측 AI 경진대회 데이터]https://dacon.io/competitions/official/235736/data)
+- [데이콘 전력 사용량 예측 AI 경진대회 데이터](https://dacon.io/competitions/official/235736/overview/)
 
 - **데이터 구성**:
   - 2020년 6월 1일 ~ 8월 24일까지의 60개 건물의 기상 정보
