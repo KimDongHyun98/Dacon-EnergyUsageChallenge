@@ -6,7 +6,7 @@
 
 
 ## 프로젝트 배경
-- 데이터 : 
+- **데이터** : 
 본 프로젝트에서 사용된 데이터는 아래 링크에서 다운로드할 수 있습니다:
 [데이콘 전력 사용량 예측 AI 경진대회 데이터](https://dacon.io/competitions/official/235736/overview/)
 
@@ -41,10 +41,11 @@
 ### 예측 결과 시각화
 - 성능이 우수한 건물: 예측값이 실제값과 거의 일치
  ![image1](assets/images/image1.png)
+
 - 성능이 낮은 건물: 주기적인 패턴 학습 성공, 하지만 값 변동 구간에서 성능 저하
  ![image2](assets/images/image2.png)
-## 사용 기술
 
+## 사용 기술
 - **언어 및 프레임워크**: Python
 - **머신러닝 모델**: LGBM, XGBoost
 - **데이터 분석 및 전처리**: Pandas, NumPy
